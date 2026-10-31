@@ -63,11 +63,11 @@ The Vite dev server proxies `/api` to `http://localhost:5000`, so no extra setup
 Sample POST body:
 ```json
 {
-  "name": "Ritesh Chaubey",
+  "name": "Jhon Doe",
   "rollNo": "T005",
   "course": "B.Sc.IT",
-  "email": "ritesh@example.com",
-  "phone": "9876543210",
+  "email": "name@example.com",
+  "phone": "9545040788",
   "marks": 82
 }
 ```
