@@ -94,4 +94,4 @@ Sample POST body:
 9. Stop the backend -> frontend shows an error message
 
 ## Author
-Ritesh Chaubey, T005, TYIT
+Pranay Bhadwalkar, T003, TYIT
